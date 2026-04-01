@@ -1,4 +1,11 @@
-# 👋 YO, 
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+
+# 
 
 🚀 Passionate Developer from kerala 🇮🇳
 💡 Interested in Web Development, Open Source & Problem Solving
@@ -14,7 +21,6 @@
 ⚙️ Tools: Git | GitHub 
 
 ---
-
 
 
 ---
