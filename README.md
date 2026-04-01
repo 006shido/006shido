@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: [your@email.com](mailto:006@email.com)
+* 📧 Email: [006shido@email.com](mailto:006@email.com)
 * 💼 LinkedIn: https://linkedin.com/in/006shido
 
 
