@@ -1,3 +1,4 @@
+Waiting for a laptop 
 ## 👨‍💻 About Me
 
 <p align="center">
@@ -48,6 +49,6 @@
 ## 📫 Connect with Me
 
 * 📧 Email: [006shido@email.com](mailto:006@email.com)
-* 💼 LinkedIn: https://linkedin.com/in/006shido
+* 💼 LinkedIn: https://linkedin.com/in/06shido
 
 
