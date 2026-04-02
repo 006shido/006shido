@@ -39,7 +39,7 @@ Waiting for a laptop
 
 ---
 
-## 👯 Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 
 * Open Source Projects
 * Web Applications
