@@ -2,7 +2,7 @@ Waiting for a laptop
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor;Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 
