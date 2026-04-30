@@ -1,4 +1,4 @@
-Waiting for a laptop 
+## Waiting for a laptop 
 ## 👨‍💻 About Me
 
 <p align="center">
