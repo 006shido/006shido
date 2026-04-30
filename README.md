@@ -17,7 +17,7 @@ Waiting for a laptop
 
 ## 🛠️ Tech Stack
 
-💻 Languages: Python | JavaScript | C++
+💻 Languages: Python | JavaScript | C
 🌐 Frontend: HTML | CSS 
 ⚙️ Tools: Git | GitHub 
 
