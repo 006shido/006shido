@@ -51,3 +51,8 @@
 * 📧 Email: [006shido@email.com](mailto:006@email.com)
 * 💼 LinkedIn: https://linkedin.com/in/06shido
 
+<!--snake-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/006shido/006shido/output/snake-dark.svg" alt="snake animation"/>
+</p>
+
