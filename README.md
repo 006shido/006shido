@@ -53,6 +53,6 @@
 
 <!--Snake--->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/006shido/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/006shido/006shido/output/snake-dark.svg" alt="snake animation"/>
 </p>
 
