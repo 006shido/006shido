@@ -2,7 +2,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Master+Of+NONE;Better+Than+ONE&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Master+Of+NONE;Better+Than+ONE&center=true&width=1200&height=90&size=60&duration=3000&pause=1000">
 </p>
 
 
