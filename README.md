@@ -28,7 +28,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=006shido&theme=neon&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=006shido&theme=neon&hide_border=false&cache_bust=1" alt="GitHub Streak" />
 
 ---
 
