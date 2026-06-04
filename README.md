@@ -28,7 +28,7 @@
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com/?user=006shido&theme=neon&hide_border=false)
+![](https://streak-stats.demolab.com/?user=006shido&theme=neon&hide_border=false&v=1)
 
 ---
 
