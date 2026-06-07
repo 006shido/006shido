@@ -28,6 +28,9 @@
 
 ## 🔥 GitHub Streak
 
+<img src="https://streak-stats.demolab.com?user=006shido&theme=neon&hide_border=false&t=1749149999" alt="GitHub Streak" />
+
+
 ---
 
 ## 🌱 Currently Learning
