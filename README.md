@@ -28,7 +28,9 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=006shido&show_icons=true&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com?user=006shido&theme=neon&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=006shido&show_icons=true&theme=tokyonight)
 
 ---
 
