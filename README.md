@@ -1,4 +1,3 @@
-## Now fully set up with my development machine and actively building/projects underway...
 ## 👨‍💻 About Me
 
 <p align="center">
