@@ -26,8 +26,8 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=006shido&theme=neon&hide_border=false)
 
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=006shido&theme=neon&hide_border=false)
 
 ---
 
