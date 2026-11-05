@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-💻 Languages: Python | JavaScript | C
+💻 Languages: Python | JavaScript | Java | C
 🌐 Frontend: HTML | CSS 
 ⚙️ Tools: Git | GitHub 
 
