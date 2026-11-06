@@ -1,13 +1,15 @@
 ## 👨‍💻 About Me
 
+</br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Master+Of+NONE;Better+Than+ONE&center=true&width=1200&height=90&size=60&duration=3000&pause=1000&color=A855F7">
 </p>
 
-
 # 
+</br>
 
 🚀 Passionate Developer from kerala 🇮🇳
+</br>
 💡 Interested in Web Development, Open Source & cybersecurity 
 <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzUwMTY4NjQsIm5iZiI6MTc3NTAxNjU2NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDAxVDA0MDkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1ODRjZDYzZDZmODUyNmIxZGQ2ZWUwNTQ0MjRmOWE5ZTc5Yzk1ZWYwN2EyODJhNTk2MGM2NDc3Y2JlZTRlZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.V1g2zo0xNCsvkKFfM5rXSaUMf-RipUiCJYgOxE0Kfjo" width="800">
 
@@ -16,8 +18,10 @@
 
 ## 🛠️ Tech Stack
 
-💻 Languages: Python | JavaScript | Java | C
-🌐 Frontend: HTML | CSS 
+💻 Languages: Python | C | JavaScript | Java 
+</br>
+🌐 Frontend: HTML | CSS
+</br>
 ⚙️ Tools: Git | GitHub 
 
 ---
